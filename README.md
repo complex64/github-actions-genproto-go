@@ -2,6 +2,10 @@
 
 Generate Go packages from protocol buffers and gRPC service definitions.
 
+## To Do
+
+- [ ] Provide complete base image since docker actions appear to rebuild on every run?
+
 ## Documentation To Do
 
 - [ ] A detailed description of what the action does
